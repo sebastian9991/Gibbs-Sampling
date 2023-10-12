@@ -19,3 +19,5 @@ $$
 
 ![image](https://github.com/sebastian9991/Gibbs-Sampling/assets/61892815/9aaf3901-af54-443f-b1a8-6e77d4d03bca)
 
+![image](https://github.com/sebastian9991/Gibbs-Sampling/assets/61892815/9f5ee612-a6b7-425d-b691-5f231fb14fb0)
+
