@@ -15,5 +15,7 @@ $$
 
 ![image](https://github.com/sebastian9991/Gibbs-Sampling/assets/61892815/53620747-6544-44b9-9624-d1e49a506dc2)
 
-# We show the process of the resulting factor tables: 
+## We show the process of the resulting factor tables: 
+
+![image](https://github.com/sebastian9991/Gibbs-Sampling/assets/61892815/9aaf3901-af54-443f-b1a8-6e77d4d03bca)
 
