@@ -12,3 +12,8 @@ $$
     &\approx
 \end{align}
 $$
+
+![image](https://github.com/sebastian9991/Gibbs-Sampling/assets/61892815/53620747-6544-44b9-9624-d1e49a506dc2)
+
+# We show the process of the resulting factor tables: 
+
