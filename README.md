@@ -21,3 +21,9 @@ $$
 
 ![image](https://github.com/sebastian9991/Gibbs-Sampling/assets/61892815/9f5ee612-a6b7-425d-b691-5f231fb14fb0)
 
+## Gibbs sampling procedure: 
+
+Randomly choosing A,C or D then sampling based on the posterior distribution
+of their Markov blanket. The convergence of the sampling procedure is shown
+in the figure below. The red line represents the value gained from variable elimination for $P(A = a1|B = b1)$
+
